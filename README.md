@@ -1,4 +1,4 @@
-# MengGe's Blender Dark Theme
+## MengGe's Blender Dark Theme
 
 This Blender theme is adjusted by MengGe according to the Blender Dark theme, the theme will be deeper than Blender Dark.
 
@@ -6,15 +6,23 @@ The main color of the theme is #38738B
 
 If you have any questions you can give me feedback!
 
+## Blender Extensions
+
+You can get the theme on the [Blender Extensions website](https://extensions.blender.org/approval-queue/mengges-dark-theme)!
+
 ---
 
-# 萌哥的Blender深色主题
+## 萌哥的Blender深色主题
 
 这个Blender主题是萌哥根据 Blender Dark 主题进行了调整，主题会比 Blender Dark 更深一些
 
 主题的主色为 #38738B
 
 如果有什么问题可以向我反馈哦！
+
+## Blender Extensions
+
+你可以在 [Blender Extensions 网站](https://extensions.blender.org/approval-queue/mengges-dark-theme) 上获取该主题！
 
 ---
 
