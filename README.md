@@ -1,3 +1,5 @@
+[![image](https://github.com/user-attachments/assets/2cd7eaf5-e5e3-4f37-b3a3-23f5f3b04e31)](https://github.com/menggekkd/MengGes_Blender_Dark_Theme)
+
 ## MengGe's Blender Dark Theme
 
 This Blender theme is adjusted by MengGe according to the Blender Dark theme, the theme will be deeper than Blender Dark.
