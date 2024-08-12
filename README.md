@@ -10,7 +10,7 @@ If you have any questions you can give me feedback!
 
 ## Blender Extensions
 
-You can get the theme on the [Blender Extensions website](https://extensions.blender.org/approval-queue/mengges-dark-theme)!
+You can get the theme on the [Blender Extensions website](https://extensions.blender.org/themes/mengges-dark-theme)!
 
 ---
 
@@ -24,7 +24,7 @@ You can get the theme on the [Blender Extensions website](https://extensions.ble
 
 ## Blender Extensions
 
-你可以在 [Blender Extensions 网站](https://extensions.blender.org/approval-queue/mengges-dark-theme) 上获取该主题！
+你可以在 [Blender Extensions 网站](https://extensions.blender.org/themes/mengges-dark-theme) 上获取该主题！
 
 ---
 
