@@ -28,6 +28,10 @@ You can get the theme on the [Blender Extensions website](https://extensions.ble
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1OR07H)
+
+---
+
 # Previews
 
 Windows
