@@ -6,7 +6,10 @@ This Blender theme is adjusted by MengGe according to the Blender Dark theme, th
 
 The main color of the theme is #266980
 
-If you have any questions you can click **[here](https://github.com/menggekkd/mengge-s-blender-dark-theme?tab=readme-ov-file "Github link")** to give me feedback!
+If you have any questions you can give me feedback!
+
+You can get the theme on the [Blender Extensions website](https://extensions.blender.org/themes/mengges-dark-theme)!
+
 
 ---
 
@@ -18,7 +21,9 @@ If you have any questions you can click **[here](https://github.com/menggekkd/me
 
 主题的主色为 #266980
 
-如果有什么问题可以点击 **[这里](https://github.com/menggekkd/mengge-s-blender-dark-theme?tab=readme-ov-file "Github 链接")** 向我反馈哦！
+如果有什么问题可以向我反馈哦！
+
+你可以在 [Blender Extensions 网站](https://extensions.blender.org/themes/mengges-dark-theme) 上获取该主题！
 
 ---
 
