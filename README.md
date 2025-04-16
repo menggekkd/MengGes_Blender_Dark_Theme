@@ -18,7 +18,7 @@ If you have any questions you can click **[here](https://github.com/menggekkd/me
 
 主题的主色为 #266980
 
-如果有什么问题可以点击**[这里](https://github.com/menggekkd/mengge-s-blender-dark-theme?tab=readme-ov-file "Github 链接")**向我反馈哦！
+如果有什么问题可以点击 **[这里](https://github.com/menggekkd/mengge-s-blender-dark-theme?tab=readme-ov-file "Github 链接")** 向我反馈哦！
 
 ---
 
