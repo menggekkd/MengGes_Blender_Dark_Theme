@@ -27,10 +27,6 @@ You can get the theme on the [Blender Extensions website](https://extensions.ble
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1OR07H)
-
----
-
 # Previews
 ![Image](https://github.com/user-attachments/assets/f4bd0c45-4562-41b7-8cd3-01043af9845e)
 
