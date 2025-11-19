@@ -53,7 +53,7 @@ This theme is released under the [GPL-2.0](https://www.gnu.org/licenses/old-lice
 # Previews
 
 <img width="3840" height="2160" alt="Image_Demo_1" src="https://github.com/user-attachments/assets/872c6ff3-4bfd-4a97-ad5c-655f6c373c1f" />
-<img width="3840" height="2160" alt="Image_Demo_2" src="https://github.com/user-attachments/assets/aea945f5-b5e7-44dc-83c9-4eb94d139d34" />
+<img width="3840" height="2160" alt="Image_Demo_2" src="https://github.com/user-attachments/assets/6f50aaf3-ebbd-457a-9529-69208e907ea4" />
 <img width="3840" height="2160" alt="Image_Demo_3" src="https://github.com/user-attachments/assets/e8421f88-f28c-4048-8890-c3c616665656" />
 
 <img width="3840" height="2160" alt="Image_2_EN" src="https://github.com/user-attachments/assets/4cb4d1c2-bbc1-4d55-8e64-a862bcf575d1" />
